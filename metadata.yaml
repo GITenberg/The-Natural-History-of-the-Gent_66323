@@ -1,0 +1,21 @@
+_repo: The-Natural-History-of-the-Gent_66323
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Albert
+    birthdate: 1816
+    deathdate: 1860
+    gutenberg_agent_id: '49224'
+    url: http://www.gutenberg.org/2009/agents/49224
+description: ''
+gutenberg_issued: '2021-09-17'
+identifiers:
+  gutenberg: '66323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Natural History of the Gent
+url: http://www.gutenberg.org/ebooks/66323
